@@ -1,4 +1,5 @@
-# HowToInstallGanache
+# How To Install Ganache 🍦🍨
+Ganache is Ethereum Test Network, You can write smart contract and deploy it and see what happen on network
 How to install Ganache with Nodejs and Truffle
 1) goto https://github.com/trufflesuite/ganache/releases then download "Ganache-2.5.4-win-setup.exe"
 2) Install Ganache for all windows User
